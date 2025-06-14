@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <div className="container mt-4">
-        <h1>My React App (Auuto Deploy Test)</h1>
+        <h1>My React App (hamza rehman)</h1>
         <nav className="mb-3">
           <Link to="/users" className="btn btn-primary me-2">Users</Link>
           <Link to="/todos" className="btn btn-secondary">Todos</Link>
